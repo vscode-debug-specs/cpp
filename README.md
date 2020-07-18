@@ -1,4 +1,4 @@
-# How to Debug C/C++ with VSCode
+# How to Debug C/C++ with VS Code
 
 ## Summary
 
