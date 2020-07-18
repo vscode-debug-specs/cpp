@@ -1,8 +1,3 @@
----
-title: How to Debug C/C++ with VSCode
-permalink: /
----
-
 # How to Debug C/C++ with VSCode
 
 ## Summary
